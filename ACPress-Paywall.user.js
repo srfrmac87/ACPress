@@ -11,7 +11,6 @@
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @downloadURL  https://github.com/srfrmac87/ACPress/raw/main/ACPress-Paywall.user.js
 // @updateURL    https://github.com/srfrmac87/ACPress/raw/main/ACPress-Paywall.user.js
-// ==/UserScript==
 // @run-at        document-start
 // ==/UserScript==
 
