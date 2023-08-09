@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         AC Press Paywall Remover
+// @name         AC Press Paywall Remover 2
 // @namespace    http://tampermonkey.net/
-// @version      0.1.0.1
+// @version      0.1.0.2
 // @description  Fixed on 8/9/23 for AC Press
 // @author       You
 // @match        *.pressofatlanticcity.com/*
